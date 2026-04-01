@@ -1,0 +1,17 @@
+{
+  "name": "Kido Quest - Math Game",
+  "short_name": "Kido Quest",
+  "description": "Free fun math game for kids aged 6-12. Practice addition, subtraction, multiplication and division!",
+  "start_url": "/kidoquest/",
+  "display": "standalone",
+  "background_color": "#0a0820",
+  "theme_color": "#0a0820",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["education", "games", "kids"],
+  "screenshots": [],
+  "lang": "en"
+}
